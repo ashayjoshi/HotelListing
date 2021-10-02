@@ -46,6 +46,7 @@ namespace HotelListing
 
             app.UseCors("AllowCors");
 
+
             app.UseRouting();
 
             app.UseAuthorization();
